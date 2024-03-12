@@ -50,6 +50,11 @@
   justify-content: space-between;
 }
 
+.main .content.disable{
+  opacity: 0.6;
+  pointer-events: none;
+}
+
 
 .content .column{
   border-radius: 5px;
